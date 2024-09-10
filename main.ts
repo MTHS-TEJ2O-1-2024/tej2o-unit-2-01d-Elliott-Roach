@@ -2,7 +2,7 @@
  *
  * Created by: Elliott
  * Created on: Sep 2024
- * This program says Hello. World!
+ * This program says Hello. Elliott!
 */
 
 basic.showString('Hello, Elliott!')
